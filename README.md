@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning C++, Python, Java and Database systems.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Smutsmedia@gmail.com
+- 📫 How to reach me 
 
 <!---
 smutsmedia/smutsmedia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
